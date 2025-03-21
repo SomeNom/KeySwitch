@@ -3,7 +3,7 @@ from tkinter.constants import INSERT
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('7357970674:AAEBCJ-JPVdn2SOJKABLlknw93HDra8aqT0')
+bot = telebot.TeleBot('TOKEN')
 
 user_text = {}  # Используем словарь, чтобы сохранять текст для каждого пользователя
 
